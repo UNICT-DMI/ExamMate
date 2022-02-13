@@ -75,6 +75,13 @@ nav:
   - Informatica:
     - Mappa: "informatica/index.md"
     - Laurea Triennale:
-      - Primo Anno: "https://google.it"
+      - Secondo Anno:
+        - Sistemi Operativi:
+          - 2015:
+            - informatica/secondo_anno/sistemi_operativi/2015/2015-07-01.md
+            - informatica/secondo_anno/sistemi_operativi/2015/2015-07-23.md
+            - informatica/secondo_anno/sistemi_operativi/2015/2015-09-15.md
+            - informatica/secondo_anno/sistemi_operativi/2015/2015-10-08.md
+
   - Matematica:
     - Mappa: "matematica/index.md"
