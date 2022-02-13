@@ -41,6 +41,9 @@ theme:
     - navigation.tabs.sticky
     - navigation.instant
 
+extra_css:
+  - stylesheets/extra.css
+
 # Text Features
 markdown_extensions:
   - abbr
@@ -73,15 +76,16 @@ nav:
   - Home: index.md
   - About: about.md
   - Informatica:
-    - Mappa: "informatica/index.md"
+    - Mappa: informatica/index.md
     - Laurea Triennale:
       - Secondo Anno:
         - Sistemi Operativi:
+          - Mappa: informatica/triennale/secondo_anno/sistemi_operativi/index.md
           - 2015:
-            - informatica/secondo_anno/sistemi_operativi/2015/2015-07-01.md
-            - informatica/secondo_anno/sistemi_operativi/2015/2015-07-23.md
-            - informatica/secondo_anno/sistemi_operativi/2015/2015-09-15.md
-            - informatica/secondo_anno/sistemi_operativi/2015/2015-10-08.md
+            - Esame del 01-07-2015: informatica/triennale/secondo_anno/sistemi_operativi/2015/2015-07-01.md
+            - Esame del 23-07-2015: informatica/triennale/secondo_anno/sistemi_operativi/2015/2015-07-23.md
+            - Esame del 15-09-2015: informatica/triennale/secondo_anno/sistemi_operativi/2015/2015-09-15.md
+            - Esame del 08-10-2015: informatica/triennale/secondo_anno/sistemi_operativi/2015/2015-10-08.md
 
   - Matematica:
     - Mappa: "matematica/index.md"
