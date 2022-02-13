@@ -1,0 +1,80 @@
+# Site's Identity
+site_name: ExamMate
+site_description: Archivio (con soluzioni) degli esami passati dei corsi del Dipartimento di Matematica e Informatica (DMI) dell'Università di Catania
+site_author: LightDestory
+site_url: https://lightdestory.github.io/ExamMate/
+
+# Repository
+repo_url: https://github.com/LightDestory/ExamMate
+repo_name: LightDestory/ExamMate
+edit_uri: ""
+
+# Theming
+theme:
+  logo: assets/images/exam_logo_512.png
+  favicon: assets/images/favicon-32x32.png
+  language: it
+  font:
+    text: Roboto
+    code: Fira Code
+  name: material
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)" # Detect System's preference for light theme
+      scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" # Detect System's preference for dark theme
+      scheme: slate
+      primary: deep orange
+      accent: orange 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.top
+    - navigation.tracking
+    - content.code.annotate
+    - navigation.tabs.sticky
+    - navigation.instant
+
+# Text Features
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - meta
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+# Plugins
+plugins:
+  - include-markdown
+  - search
+  #- git-revision-date
+
+# Navigation
+nav:
+  - Home: index.md
+  - About: about.md
+  - Informatica:
+    - Mappa: "informatica/index.md"
+    - Laurea Triennale:
+      - Primo Anno: "https://google.it"
+  - Matematica:
+    - Mappa: "matematica/index.md"

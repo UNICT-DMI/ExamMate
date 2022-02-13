@@ -1,3 +1,7 @@
+---
+title: About
+description: Informazioni su ExamMate
+---
 # Informazioni su ExamMate
 
 ## L'idea
@@ -22,3 +26,7 @@ Chiunque, munito di un account GitHub, può contribuire al progetto, sia per lo 
 
 * <a href="https://www.flaticon.com/free-icons/exam" title="exam icons">ExamMate's icon created by Good Ware - Flaticon</a>
 * <a href="https://it.vecteezy.com/vettori-gratis/university">Homepage's splash graphic  di Vecteezy</a>
+
+*[DMI]: Dipartimento di Matematica e Informatica
+*[DFA]: Dipartimento di Fisica e Astronomia
+*[FOSS]: Free Open Source Software
