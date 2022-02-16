@@ -1,1 +1,1 @@
-* Nessuna soluzione al momento disponibile :(
+Nessuna soluzione al momento disponibile :(

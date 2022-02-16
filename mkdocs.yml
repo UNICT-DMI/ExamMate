@@ -68,7 +68,6 @@ markdown_extensions:
 # Plugins
 plugins:
   - include-markdown
-  - search
 
 # Navigation
 nav:
@@ -86,6 +85,15 @@ nav:
               - Esame del 23-07-2015: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2015/2015-07-23.md
               - Esame del 15-09-2015: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2015/2015-09-15.md
               - Esame del 08-10-2015: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2015/2015-10-08.md
+            - 2016:
+              - Esame del 02-12-2016: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2016/2016-02-12.md
+              - Esame del 03-16-2016: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2016/2016-03-16.md
+              - Esame del 04-27-2016: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2016/2016-04-27.md
+              - Esame del 07-13-2016: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2016/2016-07-13.md
+              - Esame del 07-28-2016: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2016/2016-07-28.md
+              - Esame del 09-16-2016: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2016/2016-09-16.md
+              - Esame del 10-07-2016: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2016/2016-10-07.md
+              - Esame del 12-15-2016: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2016/2016-12-15.md
 
   - Matematica:
     - Mappa: archivio/matematica/index.md
