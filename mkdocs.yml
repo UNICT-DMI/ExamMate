@@ -1,12 +1,12 @@
 # Site's Identity
 site_name: ExamMate
 site_description: Archivio (con soluzioni) degli esami passati dei corsi del Dipartimento di Matematica e Informatica (DMI) dell'Università di Catania
-site_author: LightDestory
-site_url: https://lightdestory.github.io/ExamMate/
+site_author: UNICT Devs
+site_url: https://UNICT-DMI.github.io/ExamMate/
 
 # Repository
-repo_url: https://github.com/LightDestory/ExamMate
-repo_name: LightDestory/ExamMate
+repo_url: https://github.com/UNICT-DMI/ExamMate
+repo_name: UNICT-DMI/ExamMate
 edit_uri: ""
 
 # Theming
@@ -69,23 +69,23 @@ markdown_extensions:
 plugins:
   - include-markdown
   - search
-  #- git-revision-date
 
 # Navigation
 nav:
   - Home: index.md
   - About: about.md
   - Informatica:
-    - Mappa: informatica/index.md
+    - Mappa: archivio/informatica/index.md
     - Laurea Triennale:
       - Secondo Anno:
         - Sistemi Operativi:
-          - Mappa: informatica/triennale/secondo_anno/sistemi_operativi/index.md
-          - 2015:
-            - Esame del 01-07-2015: informatica/triennale/secondo_anno/sistemi_operativi/2015/2015-07-01.md
-            - Esame del 23-07-2015: informatica/triennale/secondo_anno/sistemi_operativi/2015/2015-07-23.md
-            - Esame del 15-09-2015: informatica/triennale/secondo_anno/sistemi_operativi/2015/2015-09-15.md
-            - Esame del 08-10-2015: informatica/triennale/secondo_anno/sistemi_operativi/2015/2015-10-08.md
+          - Mappa: archivio/informatica/triennale/secondo_anno/sistemi_operativi/index.md
+          - Esami di Laboratorio:
+            - 2015:
+              - Esame del 01-07-2015: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2015/2015-07-01.md
+              - Esame del 23-07-2015: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2015/2015-07-23.md
+              - Esame del 15-09-2015: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2015/2015-09-15.md
+              - Esame del 08-10-2015: archivio/informatica/triennale/secondo_anno/sistemi_operativi/esame_laboratorio/2015/2015-10-08.md
 
   - Matematica:
-    - Mappa: "matematica/index.md"
+    - Mappa: archivio/matematica/index.md

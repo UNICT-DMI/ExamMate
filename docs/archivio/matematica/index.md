@@ -5,4 +5,4 @@ description: Mappa dei corsi di laurea Matematica
 
 # Mappa dei Corsi
 
-{% include-markdown "../modules/math_course_list.md" %}
+{% include-markdown "../../modules/math_course_list.md" %}

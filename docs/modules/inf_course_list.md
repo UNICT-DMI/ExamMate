@@ -15,7 +15,7 @@
         * [INGEGNERIA DEL SOFTWARE](#){ .md-button }
         * [INTERAZIONE E MULTIMEDIA E LABORATORIO](#){ .md-button }
         * [RETI DI CALCOLATORI](#){ .md-button }
-        * [SISTEMI OPERATIVI](../informatica/triennale/secondo_anno/sistemi_operativi/){ .md-button }
+        * [SISTEMI OPERATIVI](../archivio/informatica/triennale/secondo_anno/sistemi_operativi/){ .md-button }
     === "Terzo Anno"
         * [AUDIO PROCESSING](#){ .md-button }
         * [CALCOLO NUMERICO](#){ .md-button }
